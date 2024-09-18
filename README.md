@@ -1,4 +1,4 @@
 ### Welcome to my GitHub Page!
 
-- I’m currently studying an MSc in Artificial Intelligence at City, University of London
-- My interests are in deep learning and reinforcement learning
+- I’m currently studying a PhD in Computer Science at The University of Manchester
+- My interests are in statistics and reinforcement learning
